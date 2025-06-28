@@ -1,5 +1,6 @@
 .page {
   background-color: rgb(244, 244, 244);
+  height: 100%;
 }
 
 .container {
@@ -25,6 +26,8 @@
   gap: 1em;
   padding: 1em;
   margin-top: 0;
+  overflow-y: auto; /* Enables vertical scrolling */
+  max-height: 100%;
 }
 
 .counsellors li {
