@@ -28,6 +28,8 @@ nav ul {
   align-items: center;
   position: relative;
   /* height: 5em; */
+  overflow-x: auto; /* Enables horizontal scrolling */
+  white-space: nowrap;
 }
 
 .navLogo {
