@@ -1,0 +1,60 @@
+nav {
+  opacity: 75%;
+  /* background-color: black; */
+  /* position: absolute;
+      top: 0; */
+  width: 100%;
+  z-index: 1;
+  padding: 1em;
+  border-bottom: solid 2px black;
+}
+
+nav div {
+  font-size: 30px;
+  margin: 1em 0;
+}
+
+.home {
+  /* position: absolute; */
+  top: 0;
+}
+
+nav ul {
+  display: flex;
+  justify-content: left;
+  padding: 0;
+  margin: 0;
+  gap: 2em;
+  align-items: center;
+  position: relative;
+  /* height: 5em; */
+}
+
+.navLogo {
+}
+
+nav li img {
+  height: 100%;
+}
+
+nav li {
+  list-style: none;
+  height: 100%;
+  align-content: flex-end;
+}
+
+nav li:hover {
+  cursor: pointer;
+}
+
+nav a {
+  color: rgb(0 18 101);
+  text-decoration: none;
+  position: relative;
+  align-content: flex-end;
+  font-weight: 600;
+}
+
+.invisible {
+  display: none;
+}

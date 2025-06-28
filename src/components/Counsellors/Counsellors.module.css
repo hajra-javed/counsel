@@ -1,0 +1,32 @@
+.page {
+  background-color: rgb(244, 244, 244);
+}
+
+.container {
+  display: flex;
+  height: 100%;
+  width: 100%;
+  /* gap: 1em; */
+  padding: 1em 0;
+}
+
+.filters {
+  /* flex: 1; */
+  /* background-color: rgb(163, 163, 163); */
+  /* height: 100%; */
+  width: 15em;
+}
+
+.counsellors {
+  flex: 1;
+  /* background-color: blanchedalmond; */
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  padding: 1em;
+  margin-top: 0;
+}
+
+.counsellors li {
+  list-style: none;
+}

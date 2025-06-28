@@ -1,0 +1,81 @@
+.counsellor {
+  background-color: white;
+  display: flex;
+  /* flex-direction: column; */
+  flex-wrap: wrap;
+  gap: 1em;
+  /* height: 20em; */
+  padding: 0 1em 1em 1em;
+  box-shadow: 0px 1px 6px 0px grey;
+  border-radius: 10px;
+}
+
+.name {
+  flex: 2;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.name button {
+  width: 10em;
+  border-radius: 5px;
+  padding: 10px;
+  /* border: solid 1px black; */
+  color: white;
+  font-weight: 700;
+  background-color: rgb(10 37 148);
+  border: none;
+}
+
+.name button:hover {
+  cursor: pointer;
+}
+.section {
+  flex: 1;
+}
+.counsellor ul {
+  padding: 0;
+}
+.education {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  /* background-color: blueviolet; */
+  /* padding: 0; */
+}
+
+.status,
+.employer {
+  color: red;
+  font-style: italic;
+}
+
+.counsellor li {
+  list-style: none;
+}
+
+.subjects {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+/* .counsellor h3 {
+  margin: 0 0;
+} */
+
+.subject {
+  border: solid 1px black;
+  border-radius: 5px;
+  gap: 5px;
+  padding: 5px;
+
+  background-color: #c7c5c4;
+}
+
+.university {
+  /* font-weight: bold; */
+  color: rgb(10 37 148);
+}

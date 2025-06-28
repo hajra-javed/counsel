@@ -1,0 +1,17 @@
+.filters {
+  padding: rgb(10 37 148);
+  /* padding: 10px; */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+  margin: 2em 1em;
+}
+
+.buttons {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}

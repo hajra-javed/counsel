@@ -1,0 +1,740 @@
+{
+  "counsellors": [
+    {
+      "name": "Hassan Hussain",
+      "age": 32,
+      "gender": "Male",
+      "bio": "Hassan is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Beaconhouse",
+      "college_qualification": "Matriculation",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "Matriculation",
+          "status": "Completed",
+          "university": "Beaconhouse"
+        },
+        {
+          "degree": "BSc Electrical Engineering",
+          "status": "Completed",
+          "university": "FAST"
+        },
+        {
+          "degree": "MSc Electrical Engineering",
+          "status": "Completed",
+          "university": "FAST"
+        }
+      ],
+      "expertise": [
+        "Circuit Analysis",
+        "Control Systems",
+        "Power Systems",
+        "Digital Logic"
+      ],
+      "company": "EY"
+    },
+    {
+      "name": "Salman Raza",
+      "age": 29,
+      "gender": "Male",
+      "bio": "Salman is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Beaconhouse",
+      "college_qualification": "FSc",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "FSc",
+          "status": "Completed",
+          "university": "Beaconhouse"
+        },
+        {
+          "degree": "BSc Mechanical Engineering",
+          "status": "Completed",
+          "university": "Oxford"
+        },
+        {
+          "degree": "MA Psychology",
+          "status": "Completed",
+          "university": "FAST"
+        }
+      ],
+      "expertise": [
+        "Mental Wellbeing",
+        "Dynamics",
+        "Cognitive Psychology",
+        "Psychology",
+        "Mechanics",
+        "Thermodynamics",
+        "Fluid Mechanics"
+      ],
+      "company": "Engro"
+    },
+    {
+      "name": "Omar Chaudhry",
+      "age": 33,
+      "gender": "Male",
+      "bio": "Omar is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Lahore Grammar School",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "Lahore Grammar School"
+        },
+        {
+          "degree": "BSc Electrical Engineering",
+          "status": "Completed",
+          "university": "Oxford"
+        },
+        {
+          "degree": "MA Psychology",
+          "status": "Completed",
+          "university": "NUST"
+        }
+      ],
+      "expertise": [
+        "Circuit Analysis",
+        "Control Systems",
+        "Mental Wellbeing",
+        "Cognitive Psychology",
+        "Psychology",
+        "Digital Logic",
+        "Power Systems"
+      ],
+      "company": "Careem"
+    },
+    {
+      "name": "Hamza Malik",
+      "age": 27,
+      "gender": "Male",
+      "bio": "Hamza is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "The International Grammar School",
+      "college_qualification": "Matriculation",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "Matriculation",
+          "status": "Completed",
+          "university": "The International Grammar School"
+        },
+        {
+          "degree": "BS Mathematics",
+          "status": "Completed",
+          "university": "Cambridge"
+        },
+        {
+          "degree": "MPhil Physics",
+          "status": "Completed",
+          "university": "IBA"
+        }
+      ],
+      "expertise": [
+        "Electromagnetism",
+        "Statistics",
+        "Calculus",
+        "Linear Algebra",
+        "Mathematics",
+        "Physics",
+        "Mechanics"
+      ],
+      "company": "Nestle"
+    },
+    {
+      "name": "Usman Khan",
+      "age": 35,
+      "gender": "Male",
+      "bio": "Usman is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "The Lyceum",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Undergraduate",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "The Lyceum"
+        },
+        {
+          "degree": "BBA",
+          "status": "Ongoing",
+          "university": "MIT"
+        }
+      ],
+      "expertise": ["Study Techniques", "General Counseling"],
+      "company": null
+    },
+    {
+      "name": "Hamza Siddiqui",
+      "age": 37,
+      "gender": "Male",
+      "bio": "Hamza is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Lahore Grammar School",
+      "college_qualification": "Matriculation",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "Matriculation",
+          "status": "Completed",
+          "university": "Lahore Grammar School"
+        },
+        {
+          "degree": "BSc Mechanical Engineering",
+          "status": "Completed",
+          "university": "FAST"
+        },
+        {
+          "degree": "MSc Electrical Engineering",
+          "status": "Completed",
+          "university": "IBA"
+        }
+      ],
+      "expertise": [
+        "Circuit Analysis",
+        "Control Systems",
+        "Dynamics",
+        "Mechanics",
+        "Digital Logic",
+        "Power Systems",
+        "Thermodynamics",
+        "Fluid Mechanics"
+      ],
+      "company": "Unilever"
+    },
+    {
+      "name": "Tariq Hussain",
+      "age": 37,
+      "gender": "Male",
+      "bio": "Tariq is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "The International Grammar School",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "The International Grammar School"
+        },
+        {
+          "degree": "BBA",
+          "status": "Completed",
+          "university": "Stanford"
+        },
+        {
+          "degree": "MSc Computer Science",
+          "status": "Completed",
+          "university": "MIT"
+        }
+      ],
+      "expertise": [
+        "Software Engineering",
+        "AI",
+        "Data Structures",
+        "Algorithms",
+        "Computer Science"
+      ],
+      "company": "Systems Ltd"
+    },
+    {
+      "name": "Usman Rehman",
+      "age": 39,
+      "gender": "Male",
+      "bio": "Usman is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Generations",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "Generations"
+        },
+        {
+          "degree": "BS Mathematics",
+          "status": "Completed",
+          "university": "LUMS"
+        },
+        {
+          "degree": "MA Psychology",
+          "status": "Completed",
+          "university": "Cambridge"
+        }
+      ],
+      "expertise": [
+        "Statistics",
+        "Calculus",
+        "Mental Wellbeing",
+        "Linear Algebra",
+        "Mathematics",
+        "Cognitive Psychology",
+        "Psychology"
+      ],
+      "company": null
+    },
+    {
+      "name": "Tariq Raza",
+      "age": 33,
+      "gender": "Male",
+      "bio": "Tariq is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "The International Grammar School",
+      "college_qualification": "Matriculation",
+      "highest_qualification": "Undergraduate",
+      "education": [
+        {
+          "degree": "Matriculation",
+          "status": "Completed",
+          "university": "The International Grammar School"
+        },
+        {
+          "degree": "BA Economics",
+          "status": "Ongoing",
+          "university": "Oxford"
+        }
+      ],
+      "expertise": [
+        "Economics",
+        "Macroeconomics",
+        "Development Economics",
+        "Microeconomics"
+      ],
+      "company": null
+    },
+    {
+      "name": "Usman Rehman",
+      "age": 28,
+      "gender": "Male",
+      "bio": "Usman is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Lahore Grammar School",
+      "college_qualification": "FSc",
+      "highest_qualification": "PhD",
+      "education": [
+        {
+          "degree": "FSc",
+          "status": "Completed",
+          "university": "Lahore Grammar School"
+        },
+        {
+          "degree": "BSc Electrical Engineering",
+          "status": "Completed",
+          "university": "LUMS"
+        },
+        {
+          "degree": "MSc Computer Science",
+          "status": "Ongoing",
+          "university": "LUMS"
+        }
+      ],
+      "expertise": [
+        "Circuit Analysis",
+        "Control Systems",
+        "Software Engineering",
+        "Digital Logic",
+        "AI",
+        "Power Systems",
+        "Data Structures",
+        "Algorithms",
+        "Computer Science"
+      ],
+      "company": "Google"
+    },
+    {
+      "name": "Zainab Hussain",
+      "age": 38,
+      "gender": "Female",
+      "bio": "Zainab is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Generations",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "Generations"
+        },
+        {
+          "degree": "BSc Mechanical Engineering",
+          "status": "Completed",
+          "university": "LUMS"
+        },
+        {
+          "degree": "MS Data Science",
+          "status": "Completed",
+          "university": "FAST"
+        }
+      ],
+      "expertise": [
+        "Thermodynamics",
+        "Dynamics",
+        "Mechanics",
+        "Fluid Mechanics"
+      ],
+      "company": "Nestle"
+    },
+    {
+      "name": "Sana Siddiqui",
+      "age": 33,
+      "gender": "Female",
+      "bio": "Sana is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Generations",
+      "college_qualification": "O-Levels",
+      "highest_qualification": "PhD",
+      "education": [
+        {
+          "degree": "O-Levels",
+          "status": "Completed",
+          "university": "Generations"
+        },
+        {
+          "degree": "BFA Design",
+          "status": "Completed",
+          "university": "IBA"
+        },
+        {
+          "degree": "MPhil Physics",
+          "status": "Ongoing",
+          "university": "LUMS"
+        }
+      ],
+      "expertise": [
+        "Electromagnetism",
+        "Public Speaking",
+        "Physics",
+        "Mechanics",
+        "Design",
+        "Essay Writing"
+      ],
+      "company": null
+    },
+    {
+      "name": "Nida Malik",
+      "age": 23,
+      "gender": "Female",
+      "bio": "Nida is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Lahore Grammar School",
+      "college_qualification": "FSc",
+      "highest_qualification": "Bachelor's",
+      "education": [
+        {
+          "degree": "FSc",
+          "status": "Completed",
+          "university": "Lahore Grammar School"
+        },
+        {
+          "degree": "BSc Mechanical Engineering",
+          "status": "Completed",
+          "university": "UET Lahore"
+        }
+      ],
+      "expertise": [
+        "Thermodynamics",
+        "Dynamics",
+        "Mechanics",
+        "Fluid Mechanics"
+      ],
+      "company": "Careem"
+    },
+    {
+      "name": "Hira Raza",
+      "age": 37,
+      "gender": "Female",
+      "bio": "Hira is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "The Lyceum",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Bachelor's",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "The Lyceum"
+        },
+        {
+          "degree": "BBA",
+          "status": "Completed",
+          "university": "MIT"
+        }
+      ],
+      "expertise": ["Study Techniques", "General Counseling"],
+      "company": "Unilever"
+    },
+    {
+      "name": "Ayesha Siddiqui",
+      "age": 35,
+      "gender": "Female",
+      "bio": "Ayesha is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Generations",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "Generations"
+        },
+        {
+          "degree": "BS Mathematics",
+          "status": "Completed",
+          "university": "Oxford"
+        },
+        {
+          "degree": "MSc Electrical Engineering",
+          "status": "Completed",
+          "university": "Cambridge"
+        }
+      ],
+      "expertise": [
+        "Circuit Analysis",
+        "Statistics",
+        "Calculus",
+        "Control Systems",
+        "Linear Algebra",
+        "Mathematics",
+        "Digital Logic",
+        "Power Systems"
+      ],
+      "company": null
+    },
+    {
+      "name": "Hira Siddiqui",
+      "age": 27,
+      "gender": "Female",
+      "bio": "Hira is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Generations",
+      "college_qualification": "O-Levels",
+      "highest_qualification": "Master's",
+      "education": [
+        {
+          "degree": "O-Levels",
+          "status": "Completed",
+          "university": "Generations"
+        },
+        {
+          "degree": "BFA Design",
+          "status": "Completed",
+          "university": "Stanford"
+        },
+        {
+          "degree": "MBA",
+          "status": "Completed",
+          "university": "IBA"
+        }
+      ],
+      "expertise": ["Design", "Public Speaking", "Essay Writing"],
+      "company": "Careem"
+    },
+    {
+      "name": "Amna Sheikh",
+      "age": 39,
+      "gender": "Female",
+      "bio": "Amna is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "The International Grammar School",
+      "college_qualification": "A-Levels",
+      "highest_qualification": "Undergraduate",
+      "education": [
+        {
+          "degree": "A-Levels",
+          "status": "Completed",
+          "university": "The International Grammar School"
+        },
+        {
+          "degree": "BSc Mechanical Engineering",
+          "status": "Ongoing",
+          "university": "LUMS"
+        }
+      ],
+      "expertise": [
+        "Thermodynamics",
+        "Dynamics",
+        "Mechanics",
+        "Fluid Mechanics"
+      ],
+      "company": null
+    },
+    {
+      "name": "Ayesha Hussain",
+      "age": 39,
+      "gender": "Female",
+      "bio": "Ayesha is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Generations",
+      "college_qualification": "Matriculation",
+      "highest_qualification": "Bachelor's",
+      "education": [
+        {
+          "degree": "Matriculation",
+          "status": "Completed",
+          "university": "Generations"
+        },
+        {
+          "degree": "BS Mathematics",
+          "status": "Completed",
+          "university": "NUST"
+        }
+      ],
+      "expertise": ["Mathematics", "Statistics", "Linear Algebra", "Calculus"],
+      "company": "Engro"
+    },
+    {
+      "name": "Mariam Sheikh",
+      "age": 23,
+      "gender": "Female",
+      "bio": "Mariam is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Roots International",
+      "college_qualification": "Matriculation",
+      "highest_qualification": "PhD",
+      "education": [
+        {
+          "degree": "Matriculation",
+          "status": "Completed",
+          "university": "Roots International"
+        },
+        {
+          "degree": "BSc Computer Science",
+          "status": "Completed",
+          "university": "FAST"
+        },
+        {
+          "degree": "PhD Artificial Intelligence",
+          "status": "Ongoing",
+          "university": "Cambridge"
+        }
+      ],
+      "expertise": [
+        "Software Engineering",
+        "AI",
+        "Data Structures",
+        "Algorithms",
+        "Computer Science"
+      ],
+      "company": "Careem"
+    },
+    {
+      "name": "Fatima Sheikh",
+      "age": 30,
+      "gender": "Female",
+      "bio": "Fatima is passionate about helping students with honest, relatable advice from their own journey.",
+      "college_name": "Generations",
+      "college_qualification": "Matriculation",
+      "highest_qualification": "Undergraduate",
+      "education": [
+        {
+          "degree": "Matriculation",
+          "status": "Completed",
+          "university": "Generations"
+        },
+        {
+          "degree": "BS Mathematics",
+          "status": "Ongoing",
+          "university": "LUMS"
+        }
+      ],
+      "expertise": ["Mathematics", "Statistics", "Linear Algebra", "Calculus"],
+      "company": null
+    }
+  ],
+  "lists": {
+    "universities": [
+      "Oxford",
+      "IBA",
+      "FAST",
+      "LUMS",
+      "NUST",
+      "Cambridge",
+      "Stanford",
+      "MIT",
+      "UET Lahore",
+      "Harvard"
+    ],
+    "colleges": [
+      "Generations",
+      "Lahore Grammar School",
+      "The International Grammar School",
+      "The Lyceum",
+      "Bay View College",
+      "Beaconhouse",
+      "Roots International"
+    ],
+    "college_qualifications": ["FSc", "Matriculation", "O-Levels", "A-Levels"],
+    "education_levels": ["Master's", "PhD", "Bachelor's", "Undergraduate"],
+    "expertise_subjects": [
+      "Mathematics",
+      "Statistics",
+      "Physics",
+      "Quantum Mechanics",
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Control Systems",
+      "Electronics",
+      "Digital Logic",
+      "Signal Processing",
+      "Mechanics",
+      "Electrical Engineering",
+      "Mechanical Engineering",
+      "Engineering Design",
+      "Computer Science",
+      "Software Engineering",
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Algorithms",
+      "Data Structures",
+      "Data Science",
+      "Cybersecurity",
+      "Web Development",
+      "Biology",
+      "Genetics",
+      "Molecular Biology",
+      "Life Sciences",
+      "Chemistry",
+      "Organic Chemistry",
+      "English",
+      "Essay Writing",
+      "Public Speaking",
+      "Creative Writing",
+      "Communication",
+      "Design",
+      "Architecture",
+      "Urban Planning",
+      "Economics",
+      "Microeconomics",
+      "Macroeconomics",
+      "Econometrics",
+      "Development Economics",
+      "Psychology",
+      "Cognitive Psychology",
+      "Behavioral Psychology",
+      "Mental Wellbeing",
+      "Cognitive Science",
+      "Career Counseling",
+      "General Counseling",
+      "Study Techniques",
+      "Academic Strategy",
+      "Time Management",
+      "University Applications",
+      "AI",
+      "College Selection",
+      "SAT Prep",
+      "IELTS Prep",
+      "TOEFL Prep",
+      "Business",
+      "Finance",
+      "Accounting",
+      "Marketing",
+      "Entrepreneurship",
+      "Human Resource Management",
+      "Supply Chain",
+      "Law",
+      "Legal Studies",
+      "Constitutional Law",
+      "Criminal Law",
+      "Contract Law",
+      "Tort Law",
+      "Political Science",
+      "Sociology",
+      "Education Policy",
+      "Behavioral Sciences"
+    ],
+    "ages": [
+      19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36,
+      37, 38, 39
+    ],
+    "genders": ["Male", "Female"]
+  }
+}
