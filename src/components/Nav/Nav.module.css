@@ -7,6 +7,7 @@ nav {
   z-index: 1;
   padding: 1em;
   border-bottom: solid 2px black;
+  box-sizing: border-box;
 }
 
 nav div {
