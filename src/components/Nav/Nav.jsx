@@ -7,25 +7,25 @@ function Nav(props) {
       <div>Launchpad NIIT</div>
       <ul>
         <li className={`${style.navItem} `}>
-          <Link to="/launchpad/profile">Profile</Link>
+          <Link to="/profile">Profile</Link>
         </li>
         <li className={`${style.navItem} `}>
-          <Link to="/launchpad/experts">Experts</Link>
+          <Link to="/experts">Experts</Link>
         </li>
         <li className={`${style.navItem} `}>
-          <Link to="/launchpad/appointments">Appointments</Link>
+          <Link to="/appointments">Appointments</Link>
         </li>
         <li className={`${style.navItem} `}>
-          <Link to="/launchpad/events">Events</Link>
+          <Link to="/events">Events</Link>
         </li>
         <li className={`${style.navItem} `}>
-          <Link to="/launchpad/jobs">Jobs</Link>
+          <Link to="/jobs">Jobs</Link>
         </li>
         <li className={`${style.navItem} `}>
-          <Link to="/launchpad/notifications">Notifications</Link>
+          <Link to="/notifications">Notifications</Link>
         </li>
         <li className={`${style.navItem} `}>
-          <Link to="/launchpad/settings">Settings</Link>
+          <Link to="/settings">Settings</Link>
         </li>
       </ul>
     </nav>

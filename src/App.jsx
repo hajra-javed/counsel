@@ -12,7 +12,7 @@ function App() {
       <Routes>
         {/* <Route path="/" element={<Navigate to="/counselling" />} /> */}
         {/* <Route path="/counselling" element={<Home className={style.main} />} /> */}
-        <Route path="/launchpad/experts" element={<Counsellors />} />
+        <Route path="/experts" element={<Counsellors />} />
       </Routes>
     </BrowserRouter>
   );
